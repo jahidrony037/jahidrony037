@@ -6,7 +6,7 @@
 ### 🔭 I’m working - MediDX Client Web App. 
 ### 🌱 I’m learning - Next JS, SQL. 
 ### 👯 I’m looking - To collaborate on open source projects.
-### 💬 Ask me about - React JS, JavaScript.
+### 💬 Ask me about - React JS, JavaScript, Next JS.
 ### ⚡ Fun fact - I am Funny.
 
 <br/>
@@ -41,6 +41,7 @@
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/nextjs-original-wordmark.svg" alt="react" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="60" height="60"/>
